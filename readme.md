@@ -1,6 +1,6 @@
 ### NLP is hard!!!!!!
 一直关注[刘群老师](https://weibo.com/liuqunmttodeath?refer_flag=1001030103_)的微博，常常看见他分享的一些好玩的#自然语言处理太难了#。
-遂整理了NLP实在是太难了系列语句，大家一笑无妨。这里列举了一些关于分词、实体识别、知识图谱相关的语句，按照难度从低到高排列，最高难度的放在了最后（需要强大的知识图谱哦）。
+遂整理了NLP实在是太难了系列语句，大家一笑无妨。这里列举了一些关于分词、实体识别、知识图谱相关的语句，按照难度从低到高排列，最高难度的放在了最后（需要强大的知识图谱哦，欢迎大家把答案开在issue里）。
 #### 难度：※※ 两颗星
 1. 来到杨过曾经生活过的地方，小龙女动情地说：“我也想过过过儿过过的生活。”
 2. 来到儿子等校车的地方，邓超对孙俪说：“我也想等等等等等过的那辆车。”
@@ -17,11 +17,11 @@
 11. “碳碳键键能能否否定定律一” ​
 12. 书《无线电法国别研究》  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-a80a498f5e42ebd1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
-13. 要去见投资人，出门时，发现车钥匙下面压了一张员工的小字条，写着“老板，加油！”，瞬间感觉好有温度，当时心理就泪奔了。心里默默发誓：我一定会努力的！ 车开了15分钟后，没油了。。。
+13. 要去见投资人，出门时，发现车钥匙下面压了一张员工的小字条，写着“老板，加油！”，瞬间感觉好有温度，当时心理就泪奔了。心里默默发誓：我一定会努力的！ 车开了15分钟后，没油了。。。  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-2232cd627f8ec39b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 14. 他快抱不起儿子了，因为他太胖了
 15. 中文里面“大胜”和“大败”意思相同，刚发现英文里面也有类似的现象：valuable和invaluable都是表示非常有价值的意思
-16. How can I help you? 我能帮您什么？我怎么可以帮你！米国某酒店前台翻译机
+16. How can I help you? 我能帮您什么？我怎么可以帮你！米国某酒店前台翻译机  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-13a1aacd324fd1c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300) ​
 17. 一家名为“宝鸡有一群怀揣着梦想的少年相信在牛大叔的带领下会创造生命的奇迹网络科技有限公司”走红网络，该公司全名长达39个字，还是一句主谓宾齐全的句子。宝鸡工商部门表示，该公司属合法注册，但名字太长不利于刻公章开发票  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-6b60dbfc8ca2ad7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
