@@ -6,7 +6,8 @@
 2. 来到儿子等校车的地方，邓超对孙俪说：“我也想等等等等等过的那辆车。”
 3. 赵敏说：我也想控忌忌己不想无忌。
 4. 你也想犯范范范玮琪犯过的错吗
-5. 对叙打击是一次性行为？
+5. 对叙打击是一次性行为？  
+![image.png](https://upload-images.jianshu.io/upload_images/2528310-a0314dadb85937fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 6. 《绿林俊杰》--林俊杰做错了什么？为什么要绿他  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-3d2e842b069d632b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 #### 难度：※※※ 三颗星
