@@ -37,6 +37,12 @@
 32. NLP同学接招。这玩意非得配合超强知识图谱才能解决，非单纯NLP技术搞的定
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-a79b54c3ab6c170a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 ---------
+#### 一些搞笑的
+1. 台湾朋友发的[允悲]金门那边应对海漂死猪的防疫文件及吐槽  
+![image.png](https://upload-images.jianshu.io/upload_images/2528310-8a1c35e783ccbe62.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+2. 高兴地日韩游。接连看到这样两条微博，感叹取名字太难了，#自然语言理解太难了#  
+![image.png](https://upload-images.jianshu.io/upload_images/2528310-a85309c022fcaf91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+3. 于谦的父亲，是个卖参的人
 #### 一些easy的作为结尾
 1. 校长说衣服上除了校徽别别别的
 2. 过几天天天天气不好
