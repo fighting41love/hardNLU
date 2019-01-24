@@ -43,6 +43,8 @@
 2. 高兴地日韩游。接连看到这样两条微博，感叹取名字太难了，#自然语言理解太难了#  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-a85309c022fcaf91.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 3. 于谦的父亲，是个卖参的人
+4. 叫我起床  
+![image.png](https://upload-images.jianshu.io/upload_images/2528310-2c4ee6dba304ae3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 #### 一些easy的作为结尾
 1. 校长说衣服上除了校徽别别别的
 2. 过几天天天天气不好
