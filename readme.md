@@ -46,7 +46,9 @@
 3. 于谦的父亲，是个卖参的人
 4. 叫我起床  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-2c4ee6dba304ae3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
-5. 这宣传标语，从左往右读和从右往左读意思截然相反啊
+5. 从小便相识，大便情更浓  
+![image](http://image.uc.cn/o/wemedia/s/upload/2017/ac5cc91b3d81d2a7d7a6334319309414x1440x207x49.jpeg;,3,jpegx;3,700x.jpg)
+6. 这宣传标语，从左往右读和从右往左读意思截然相反啊
 <img src="https://wx4.sinaimg.cn/mw690/005WsNORly1fzpm2k0nwwj30go0m8jt1.jpg" width="167" height="223" />
   
 #### 一些easy的作为结尾
