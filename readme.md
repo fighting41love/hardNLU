@@ -10,6 +10,8 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-a0314dadb85937fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 6. 《绿林俊杰》--林俊杰做错了什么？为什么要绿他  
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-3d2e842b069d632b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+7. 那辆白车是黑车，那辆车到时是白车还是黑车啊！
+8. 能穿多少穿多少，到底是多穿点还是少穿点，怎么感觉冬天喝夏天不一样了
 #### 难度：※※※ 三颗星
 7. 写给卖豆芽的对联： 长长长长长长长，长长长长长长长。(solution: changzhangchangzhangchangchangzhang zhangchangzhangchangzhangzhangchang,zhangchangchangzhangchangzhangchang，zhangchangzhangchangzhangchangchang)
 8. 季姬寂，集鸡，鸡即棘鸡。棘鸡饥叽，季姬及箕稷济鸡。鸡既济，跻姬笈，季姬忌，急咭鸡，鸡急，继圾几，季姬急，即籍箕击鸡，箕疾击几伎，伎即齑，鸡叽集几基，季姬急极屐击鸡，鸡既殛，季姬激，即记《季姬击鸡记》。
@@ -34,7 +36,7 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-7b4455feb9934234.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 31. 中不不建交是受印度的影响，中不建交不受印度的影响。
 #### 难度：※※※※※ 五颗星
-32. NLP同学接招。这玩意非得配合超强知识图谱才能解决，非单纯NLP技术搞的定
+32. NLP同学接招。这玩意非得配合超强知识图谱才能解决，非单纯NLP技术能够搞的定啊
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-a79b54c3ab6c170a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 ---------
 #### 一些搞笑的
@@ -48,8 +50,8 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/2528310-2c4ee6dba304ae3b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 5. 从小便相识，大便情更浓  
 ![image](http://image.uc.cn/o/wemedia/s/upload/2017/ac5cc91b3d81d2a7d7a6334319309414x1440x207x49.jpeg;,3,jpegx;3,700x.jpg)
-6. 这宣传标语，从左往右读和从右往左读意思截然相反啊
-<img src="https://wx4.sinaimg.cn/mw690/005WsNORly1fzpm2k0nwwj30go0m8jt1.jpg" width="167" height="223" />
+6. 这宣传标语，从左往右读和从右往左读意思截然相反啊，到底是想让人干啥<img src="https://wx4.sinaimg.cn/mw690/005WsNORly1fzpm2k0nwwj30go0m8jt1.jpg" width="334" height="446" />
+
   
 #### 一些easy的作为结尾
 1. 校长说衣服上除了校徽别别别的
@@ -64,3 +66,5 @@
 10. 我朋友问父亲：我大大大（大大爷）和我姑姑谁年龄大？朋友爸爸说：你大大大大！
 11. 我背有点驼，麻麻说“你的背得背背背背佳
 12. 南京市长江大桥
+
+
